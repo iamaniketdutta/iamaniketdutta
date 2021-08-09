@@ -15,7 +15,7 @@
 <li>👨‍🔬 I'm working as a <em>Product Developer</em> for <strong><a href="https://visualbi.com/" target="_blank">Visual BI</a></strong>.</li>
 <li>☁  Worked as a <em>Software Engineer</em> at <strong>Startup</strong> for 18 months.</li>
 <li>👯 I’m looking to collaborate on Different kinds of Software Projects.</li>
-<li>💬 Ask me about Mutual Funds, Investments Programming and Development.</li>
+<li>💬 Ask me about Mutual Funds, Investments, Programming and Development.</li>
 <li>⚡ Fun fact: I always reply in minutes</li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
 </ul>
@@ -54,7 +54,7 @@
         <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
     </a>&nbsp;&nbsp;
 	<a href="https://t.me/iamaniketdutta" target="_blank">
-        <img src="<img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/>" width="30px">
+        <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: iamaniketdutta@gmail.com">
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
@@ -62,19 +62,14 @@
 </div>
 <hr>
 <br>
+
 ## Some of my stats :bar_chart:
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamaniketdutta&show_icons=true&theme=calm"  width="400px" alt="aniket-dutta">
-</div>
 
-<div align="right">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamaniketdutta&repo=covid19-updates-telegram-bot&theme=calm" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=iamaniketdutta&show_icons=true&theme=calm"  width="400px" alt="aniket-dutta">
 
-<div align="right">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamaniketdutta&repo=covid19-email-notification&theme=calm" />
-</div>
+<br>
 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
+
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
