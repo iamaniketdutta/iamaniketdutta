@@ -61,13 +61,11 @@
     </a>&nbsp;&nbsp;
 </div>
 <hr>
-<br>
 
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamaniketdutta&show_icons=true&theme=calm"  width="400px" alt="aniket-dutta">
 
-<br>
 
 ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
