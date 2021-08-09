@@ -60,7 +60,6 @@
         <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
     </a>&nbsp;&nbsp;
 </div>
-<hr>
 
 ## Some of my stats :bar_chart:
 
