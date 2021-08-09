@@ -14,7 +14,7 @@
 <ul>
 <li>👨‍🔬 I'm working as a <em>Product Developer</em> for <strong><a href="https://visualbi.com/" target="_blank">Visual BI</a></strong>.</li>
 <li>☁  Worked as a <em>Software Engineer</em> at <strong>Startup</strong> for 18 months.</li>
-<li>👯 I’m looking to collaborate on Different kinds of Software Projects.</li>
+<li>👯 I’m looking to collaborate on Different kinds of Software Projects, Freelancing Gigs.</li>
 <li>💬 Ask me about Mutual Funds, Investments, Programming and Development.</li>
 <li>⚡ Fun fact: I always reply in minutes</li>
 <li>👨‍🎓 Learning every day. I believe sharing is the best way of learning.</li>
