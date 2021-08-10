@@ -1,4 +1,4 @@
-<h1><strong>नमस्ते (Namaste) 🙏🏻, I'm <a href="https://www.linkedin.com/in/iamaniketdutta/" target="_blank">Aniket</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
+<h1><strong><span style="color:#ff9933">नमस्ते (Namaste) </span>🙏🏻, I'm <a href="https://www.linkedin.com/in/iamaniketdutta/" target="_blank" style="color:#228B22">Aniket</a></strong> <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="28px"></h1>
 
 <div align="left"> 
     <img src="https://komarev.com/ghpvc/?username=iamaniketdutta" alt="aniket-dutta"> 
