@@ -12,8 +12,8 @@
 <img align="right" src="https://media.giphy.com/media/qluPd0xPVA1gWl7U7q/giphy.gif" width="300px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍🔬 I'm working as a <em>Product Developer</em> for <strong><a href="https://visualbi.com/" target="_blank">Visual BI</a></strong>.</li>
-<li>☁  Worked as a <em>Software Engineer</em> at <strong>Startup</strong> for 18 months.</li>
+<li>👨‍🔬 I'm working as a <em>Senior Developer</em> for <strong><a href="https://www.delhivery.com" target="_blank">Delhivery</a></strong>.</li>
+<li>☁  Worked as a <em>Product Developer and Software Engineer</em> at <strong>early stage Startup</strong> for 3 years.</li>
 <li>👯 I’m looking to collaborate on Different kinds of Software Projects, Freelancing Gigs.</li>
 <li>💬 Ask me about Mutual Funds, Investments, Programming and Development.</li>
 <li>⚡ Fun fact: I always reply in minutes</li>
