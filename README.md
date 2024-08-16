@@ -6,14 +6,14 @@
 
 <h3 align="center"><em>Learning is like doing body-exercise. You only benefit if you do it consistently.💯</em></h3>
 
-<p>This is what I have learned over the past two years. I am an innovative person by nature and a web developer by passion.</p>
+<p>This is what I have learned over the past five years. I am an innovative person by nature and a web developer by passion.</p>
 
 <hr>
 <img align="right" src="https://media.giphy.com/media/qluPd0xPVA1gWl7U7q/giphy.gif" width="300px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍🔬 I'm working as a <em>Senior Developer</em> for <strong><a href="https://www.delhivery.com" target="_blank">Delhivery</a></strong>.</li>
-<li>☁  Worked as a <em>Product Developer and Software Engineer</em> at <strong>early stage startups</strong> for 3 years.</li>
+<li>👨‍🔬 I'm working as a <em>Senior Software Engineer</em> for <strong><a href="https://www.foundit.in/" target="_blank">Monster.com India</a></strong>.</li>
+<li>☁  Worked as a <em>Senior Developer and Software Engineer</em> at <strong>early stage startups</strong> for 3 years.</li>
 <li>👯 I’m looking to collaborate on Different kinds of Software Projects, Freelancing Gigs.</li>
 <li>💬 Ask me about Mutual Funds, Investments, Programming and Development.</li>
 <li>⚡ Fun fact: I always reply in minutes</li>
@@ -33,6 +33,12 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+	<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
+	<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+	<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
 <br>
 <hr>
