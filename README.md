@@ -57,22 +57,16 @@
 <h3>How to reach me ✨</h3>
 <div>
     <a href="https://www.linkedin.com/in/iamaniketdutta/" target="_blank">
-        <img src="https://image.flaticon.com/icons/png/512/145/145807.png" width="30px">
+        <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="30px">
     </a>&nbsp;&nbsp;
 	<a href="https://t.me/iamaniketdutta" target="_blank">
         <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" width="30px">
     </a>&nbsp;&nbsp;
     <a href="mailto: iamaniketdutta@gmail.com">
-        <img src="https://image.flaticon.com/icons/png/512/732/732200.png" width="30px">
+        <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="30px">
     </a>&nbsp;&nbsp;
 </div>
 
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamaniketdutta&show_icons=true&theme=calm"  width="400px" alt="aniket-dutta">
-
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
