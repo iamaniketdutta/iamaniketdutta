@@ -50,7 +50,7 @@
     <li>Watch a Chess Game 🤓</li>
     <li>Make Travel Plans 😉</li>
     <li>Research for investment 🔥</li>
-    <li> Netflix 🎧💚</li>
+    <li> YouTube 🎧💚</li>
 </ul>
 <hr>
 
