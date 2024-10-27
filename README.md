@@ -12,8 +12,8 @@
 <img align="right" src="https://media.giphy.com/media/qluPd0xPVA1gWl7U7q/giphy.gif" width="300px">
 <h3>🚀 Some things you should know 👇</h3>
 <ul>
-<li>👨‍🔬 I'm working as a <em>Senior Software Engineer</em> for <strong><a href="https://www.foundit.in/" target="_blank">Monster.com India</a></strong>.</li>
-<li>☁  Worked as a <em>Senior Developer and Software Engineer</em> at <strong>early stage startups</strong> for 3 years.</li>
+<li>👨‍🔬 I'm working as a <em>Software Development Engineer III</em> for <strong><a href="https://www.zee5.com/" target="_blank">Zee (ZEE5)</a></strong>.</li>
+<li>☁  Worked as a <em>Senior Developer and Software Engineer</em> at <strong>unicorn startups</strong> for 6 years.</li>
 <li>👯 I’m looking to collaborate on Different kinds of Software Projects, Freelancing Gigs.</li>
 <li>💬 Ask me about Mutual Funds, Investments, Programming and Development.</li>
 <li>⚡ Fun fact: I always reply in minutes</li>
